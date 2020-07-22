@@ -2,7 +2,7 @@
 
 노마드 코더의 JS Basics 클론코딩 [YouTube 바로가기](https://www.youtube.com/playlist?list=PL7jH19IHhOLM8YwJMTa3UkXZN-LldYnyK)
 
-크롬 확장 프로그램의 Momentum 클론 코딩 
+크롬 확장 프로그램의 [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?page=1&hl=ko&itemlang=he) 클론 코딩 
 
 - 시계 
 - 사용자 입력 받기
