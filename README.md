@@ -9,6 +9,6 @@
 - To DO List
 - 날씨 위치 정보 
 
-리얼 도전기와 후기는 여깄다구 🐷 [블로그 바로가기](https://jokbalkiller.github.io/JS-Basics-01)
+리얼 도전 [블로그 바로가기](https://jokbalkiller.github.io/JS-Basics-01)
 
 ![JS_Basics_mine](https://user-images.githubusercontent.com/55704603/88150348-3e16b100-cc3c-11ea-8b0f-c4e4e215c36f.png)
