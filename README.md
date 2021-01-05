@@ -10,6 +10,5 @@
 - To DO List
 - 날씨 위치 정보 
 
-✔ 도전기 블로그 [바로가기](https://jokbalkiller.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/JS%20Basics)
 
 ![JS_Basics_mine](https://user-images.githubusercontent.com/55704603/88150348-3e16b100-cc3c-11ea-8b0f-c4e4e215c36f.png)
